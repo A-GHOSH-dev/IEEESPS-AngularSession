@@ -9,3 +9,6 @@ https://www.canva.com/design/DAEw8aZgB7E/jGFelJVYnaP4pdIv4BMcTA/view?utm_content
 ## Projects
 - ToDo App
 - Calculator
+
+## Web App Project Hosted
+https://ashy-rock-0097b0910.azurestaticapps.net/
